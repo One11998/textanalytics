@@ -12,13 +12,6 @@ from flask import Flask, request, render_template
 
 app = Flask(__name__)
 
-
-# In[3]:
-
-
-get_ipython().system('pip install textblob')
-
-
 # In[4]:
 
 
